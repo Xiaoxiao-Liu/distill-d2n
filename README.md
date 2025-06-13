@@ -5,6 +5,8 @@ This is the project of Medical distillation for `dialog2note` task.
 This repository represent a code for paper [Enhancing Medical Dialogue Summarization: A MediExtract Distillation Framework](https://www.computer.org/csdl/proceedings-article/bibm/2024/10822640/23oo4I9Ps8E)
 at BIBM-2024.
 
+🤗 **ModelCard:** https://huggingface.co/Xiaolihai/flan-t5-large_MeDistill
+
 ## Environment Setup
 - Setup Conda environment for finetuing:
 ```
